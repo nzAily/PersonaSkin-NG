@@ -45,7 +45,7 @@ in [Bedrock_Edition_1.13.0](https://minecraft.gamepedia.com/Bedrock_Edition_1.13
 
 ## Target software:
 
-This plugin officially only works with [`Pocketmine-MP`](https://github.com/pmmp/PocketMine-MP/).
+This plugin officially only works with [`Pocketmine-MP`](https://github.com/NetherGamesMC/PocketMine-MP/).
 
 ##
 
